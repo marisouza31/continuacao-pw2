@@ -3,7 +3,7 @@
         <title> Exemplo de Formulario</title>
 </head>
 <body>
-    <form metod="POST" action="teste.class.php">
+    <form method="POST" action="teste.class.php">
         Nome: <input type="text" name="nome" id="nome"><br><br>
         <input type="submit" name="Cadastrar" value="Cadastrar">
     </form>

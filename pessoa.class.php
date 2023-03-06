@@ -10,12 +10,12 @@ class Pessoa{
     private $estado;
 
     public function getNome(){
-      return  $this ->nome;
+      return $this->nome;
     }
     public function setNome($nome){
-     $this ->nome = $nome;
+       $this->nome = $nome;
     }
-    pulic function getEndereco(){
+    public function getEndereco(){
         return $this ->endereco;
     }
     public function setEndereco($endereco){
